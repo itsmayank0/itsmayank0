@@ -13,7 +13,7 @@
   <img align="left" alt="Mayank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?itsmayank0=itsmayank0.itsmayank0)
+![](https://visitor-badge.glitch.me/badge?page_id=itsmayank0.itsmayank0)
 
 <br />
 
