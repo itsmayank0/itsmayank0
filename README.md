@@ -17,7 +17,7 @@
 
 <br />
 
-- 🔭 I’m currently working on Internship Website(Which is Wordpress site).
+- 🔭 I’m currently working on Ecommerce Website.
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about **Django, Python or DSA**
 - 📫 How to reach me: [Mail](mailto:mayankirar@gmail.com), [LinkedIn](https://www.linkedin.com/in/mayank-dhakad-363921169/).
