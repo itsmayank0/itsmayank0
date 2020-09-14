@@ -24,4 +24,4 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a Singer too.
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=itsmayank0&show_icons=true&hide_border=true)
+![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=itsmayank0&show_icons=true&hide_border=true)
