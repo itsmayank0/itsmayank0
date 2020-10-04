@@ -1,6 +1,6 @@
 <img src="https://github.com/itsmayank0/itsmayank0/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
-### Hi there 👋 Mayank Here..
+### Hi there 👋 Mayank Here...
 
 <br/>
 <a href="https://twitter.com/mayankkirar0">
