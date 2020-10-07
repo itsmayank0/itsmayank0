@@ -24,3 +24,4 @@
 - ⚡ Fun fact: I am a Singer too.
 
 ![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=itsmayank0&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
