@@ -1,4 +1,4 @@
-### Hi there, Mayank is Here <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"/>...
+### <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50"/> there, Mayank is Here...
 
 
 <br/>
@@ -16,7 +16,7 @@
 
 <br />
 
-- 🔭 I’m currently working on Ecommerce Website.
+- 🔭 I’m currently working On C#.
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about **Django, Python or DSA**
 - 📫 How to reach me: [Mail](mailto:mayankirar@gmail.com), [LinkedIn](https://www.linkedin.com/in/mayank-dhakad-363921169/).
