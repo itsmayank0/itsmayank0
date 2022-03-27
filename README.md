@@ -16,7 +16,7 @@
 
 <br />
 
-- 🔭 I’m currently working On C#.
+- 🔭 I’m currently working On React and SpringBoot.
 - 🌱 I’m currently learning Micro Services
 - 💬 Ask me about **React, SpringBoot, Micro Service Implementation, Django and Python**
 - 📫 How to reach me: [Mail](mailto:mayankirar@gmail.com), [LinkedIn](https://www.linkedin.com/in/mayank-dhakad-363921169/).
