@@ -17,8 +17,8 @@
 <br />
 
 - 🔭 I’m currently working On C#.
-- 🌱 I’m currently learning DSA
-- 💬 Ask me about **Django, Python or DSA**
+- 🌱 I’m currently learning Micro Services
+- 💬 Ask me about **React, SpringBoot, Micro Service Implementation, Django and Python**
 - 📫 How to reach me: [Mail](mailto:mayankirar@gmail.com), [LinkedIn](https://www.linkedin.com/in/mayank-dhakad-363921169/).
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a Singer too.
